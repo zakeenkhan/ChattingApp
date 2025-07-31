@@ -19,7 +19,7 @@ Talk-A-Tive is a modern, full-stack real-time chatting application built with th
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[Live Demo](https://talk-a-tive-7fgq.onrender.com)
 
 ## Features
 
